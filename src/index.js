@@ -2,7 +2,6 @@ const express = require('express')
 
 const app = express()
 
-Essa é a nova branch 
-minha-nova-branch
+console.log("Hello World")
 
 app.listen(3000)
